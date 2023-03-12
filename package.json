@@ -13,6 +13,7 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"dependencies": {
+		"@picocss/pico": "^1.5.7",
 		"find-partial-anagrams": "^0.2.0"
 	},
 	"devDependencies": {
